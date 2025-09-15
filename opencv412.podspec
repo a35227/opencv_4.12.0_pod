@@ -41,8 +41,8 @@ Pod::Spec.new do |spec|
   #
 
   # spec.license      = "MIT (example)"
-  spec.license      = { :type => "MIT", :file => "LICENSE" }
-
+  spec.license      = { :type => "BSD", :file => "LICENSE" }
+#   spec.license      = "Copyright (c) 2018 nick"
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -65,9 +65,9 @@ Pod::Spec.new do |spec|
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  # spec.platform     = :ios
-  # spec.platform     = :ios, "5.0"
-
+  spec.platform     = :ios
+  spec.platform     = :ios, "12.0"
+  spec.ios.vendored_frameworks = "opencv2.xcframework"
   #  When using multiple platforms
   # spec.ios.deployment_target = "5.0"
   # spec.osx.deployment_target = "10.7"
@@ -93,8 +93,8 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "Classes", "Classes/**/*.{h,m}"
-  spec.exclude_files = "Classes/Exclude"
+ #   spec.source_files  = "Classes", "Classes/**/*.{h,m}"
+ #   spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
 
@@ -136,5 +136,9 @@ Pod::Spec.new do |spec|
 
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
-
+#   spec.frameworks = "Accelerate", "AssetsLibrary", "AVFoundation", "CoreGraphics", "CoreImage", "CoreMedia", "CoreVideo", "Foundation", "QuartzCore", "UIKit"
+#
+#   spec.requires_arc = false
+#
+#   spec.test_spec do |ts| ts.requires_app_host = true end end
 end

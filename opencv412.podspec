@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "opencv412"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "A prebuilt OpenCV 4.12.0 XCFramework for iOS, supporting image processing on arm64 devices and simulators."
 
   # This description is used to generate tags and improve search results.

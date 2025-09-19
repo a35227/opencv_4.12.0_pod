@@ -17052,350 +17052,350 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/ByteVectorExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/ByteVectorExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1338,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 147,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 179,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 212,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 245,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 278,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 311,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 344,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 377,
       "length": 1,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 419,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 461,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 503,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 545,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 587,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 629,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 671,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 713,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 758,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 802,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 846,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 890,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 934,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 978,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1022,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1066,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1111,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1155,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1199,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1243,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1287,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1331,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1375,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1419,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1464,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1508,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1552,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1596,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1640,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1684,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1728,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1772,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1803,
       "length": 3,
       "value": "512"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1836,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/CvTypeExt.swift",
       "kind": "IntegerLiteral",
       "offset": 1868,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/DoubleVectorExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/DoubleVectorExt.swift",
       "kind": "IntegerLiteral",
       "offset": 969,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/FloatVectorExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/FloatVectorExt.swift",
       "kind": "IntegerLiteral",
       "offset": 954,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/IntVectorExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/IntVectorExt.swift",
       "kind": "IntegerLiteral",
       "offset": 936,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/MatExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/MatExt.swift",
       "kind": "StringLiteral",
       "offset": 112,
       "length": 19,
       "value": "\"OpenCVErrorDomain\""
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/MatExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/MatExt.swift",
       "kind": "IntegerLiteral",
       "offset": 188,
       "length": 5,
       "value": "10001"
     },
     {
-      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/MatExt.swift",
+      "filePath": "\/Users\/staff\/Desktop\/work\/opencv2_ios\/build_xcframework_4.12.0\/iphonesimulator\/build\/build-x86_64-iphonesimulator\/modules\/objc_bindings_generator\/ios\/gen\/objc\/core\/MatExt.swift",
       "kind": "IntegerLiteral",
       "offset": 201,
       "length": 22,
